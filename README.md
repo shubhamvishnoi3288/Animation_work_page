@@ -1,3 +1,4 @@
+
 # Animation_work_page
  https://shubhamvishnoi3288.github.io/Animation_work_page/
  Pros
@@ -11,3 +12,5 @@ Cons
 
     Hard to precisely crop the screen area and start/end times
     Tweaking requires adding in other tools
+
+![Screenshot (129)](https://user-images.githubusercontent.com/65655892/124779048-50920500-def6-11eb-9bed-97e97b055e6d.png)
